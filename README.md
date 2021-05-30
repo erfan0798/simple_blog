@@ -1,2 +1,2 @@
-this test project for test git
+this test project for git learning
 -_-
